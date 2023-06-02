@@ -3,11 +3,33 @@ body{
     background-color: antiquewhite;
 }
 
-h1{
+.title{
     text-align: center;
 }
 
 .recipe-btn{
     width: 20%;
     height: 20%;
+}
+
+.recipe-list{
+    width: 980px;
+    margin: 0 auto;
+    font-size: 20px;
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+    padding: 8px;
+    margin: 0 auto;
+}
+
+li :hover{
+    color: orange;
+}
+
+a{
+    text-decoration: none;
+    color: #000000;
 }
