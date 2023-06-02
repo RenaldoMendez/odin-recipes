@@ -1,6 +1,6 @@
 body{
     font-family: 'Courier New', Courier, monospace;
-    background-color: antiquewhite;
+    background-color: #f0efef;
 }
 
 .title{
@@ -26,7 +26,7 @@ li{
 }
 
 li :hover{
-    color: orange;
+    color: rgb(196, 128, 0);
 }
 
 a{
