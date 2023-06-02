@@ -1,6 +1,6 @@
 body{
     font-family: 'Courier New', Courier, monospace;
-    background-color: antiquewhite;
+    background-color: #f0efef;
 }
 
 h1{
@@ -13,10 +13,35 @@ img{
     margin-right:auto;
     width: 400px;
     height: auto;
-
+    border-radius: 20px;
 }
 
 figcaption{
     text-align:center;
     font-weight: bold;
+}
+
+.description{
+    background-color:rgb(222, 222, 222);
+    padding: 8px 16px;
+    margin: 12px;
+    border-radius: 20px;
+}
+
+.ingredients{
+    background-color:rgb(222, 222, 222);
+    padding: 8px 16px;
+    margin: 12px;
+    border-radius: 20px;
+}
+
+.steps{
+    background-color:rgb(222, 222, 222);
+    padding: 8px 16px;
+    margin: 12px;
+    border-radius: 20px;
+}
+
+h3{
+    text-align: center;
 }
